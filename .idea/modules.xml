@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/OracleShopApp.iml" filepath="$PROJECT_DIR$/OracleShopApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShopApp_Exercise.iml" filepath="$PROJECT_DIR$/ShopApp_Exercise.iml" />
     </modules>
   </component>
 </project>
