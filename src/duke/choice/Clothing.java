@@ -5,10 +5,11 @@ public class Clothing {
     double price;
     String size;
 
+
     Clothing(String description, double price, String size){
         this.description = description;
         this.price = price;
-        this.size = "M";
+        this.size = size;
     }
 
 }
