@@ -15,9 +15,8 @@ public class ShopApp {
 
         Clothing item1 = new Clothing("Blue Jacket", 20.9,"M" );
         Clothing item2 = new Clothing("Orange T-Shirt", 10.5, "S");
+        Clothing[] items = {item1, item2};
         total = (1 * item1.price + 2 * item2.price) * (1 + tax);
-
-
 
         System.out.println("Hi " + c1.name + ", Welcome to Duke Choice Shop!");
         System.out.println("Item 1" + ", " + item1.description + ", " + item1.size + ", " + item1.price);
